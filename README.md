@@ -14,6 +14,7 @@ Let's find out who will winner of this battle by some comparison which are given
 # Display
 
 The competition for displays is a close one between the iPhone X and Pixel 2 XL. 
+
 DISPLAY | Pixel 2 XL | iPhone X
 ------------ | ------------- | -------------
 Screen size (inches) | 6.00 | 5.80
@@ -21,23 +22,29 @@ Resolution | 1440x2880 pixels | 1125x2436 pixels
 
 According to above table Pixel 2 XL take a valuable lead against iPhone X.
 
+## See this also : [Android Oreo Vs iOS 11 : Comparison you should know about this](http://www.tellmehow.co/android-oreo-vs-ios-11/)
+
 # Battery
 
 The battery competition isn’t so close.
+
 BATTERY | Pixel 2 XL | iPhone X
 ------------ | ------------- | -------------
 Battery capacity (mAh) | 3520 | 2716
 Removable battery | No | No
 Weight (g) | 175.00 | 174.00
+
 The Pixel 2 XL packs a serious 3,520mAh battery that Google says can get up to seven hours of life in just 15 minutes of charging and took another lead against iPhone X.
 
 # Camera
 A killer flagship phone needs a killer camera. Google and Apple both know this. iPhones always come with an impressive camera that Android cameras try to beat. 
+
 CAMERA | Pixel 2 XL | iPhone X
 ------------ | ------------- | -------------
 Rear camera | 12.2-megapixel | 12-megapixel
 Flash | Yes | Yes
 Front camera | 8-megapixel | 7-megapixel
+
 Pixel 2 XL has high number features in this section also but due to iPhone's camera quality reputations. iPhone X got a lead and battle is on 2-1 now.
 
 # Hardware
@@ -85,6 +92,7 @@ Connectivity configuration is all equal so we decide to give one-one point to bo
 
 # Winner
 Comparing the iPhone X and the Pixel 2 XL and naming a winner is just as hard as comparing iOS and Android. They’re two different beasts, and each has ways of beating the other depending on what they’re competing over. 
+
 OVERALL POINTS | Pixel 2 XL | iPhone X
 ------------ | ------------- | -------------
 Points | 4 | 3
